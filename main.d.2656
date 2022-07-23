@@ -1,0 +1,3 @@
+main.o: main.cpp CCO.h Employee.h Feedback.h RegisteredCustomer.h \
+  UserProfile.h Technician.h Designs.h Designer.h GuestUser.h Shopper.h \
+  Order.h Payment.h InventoryManager.h Product.h Manager.h
