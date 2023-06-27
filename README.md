@@ -1,5 +1,5 @@
 # E-SHOPPING MANAGEMENT SYSTEM
-he project uses C++ classes, data structures, and algorithms to implement a simple e-shopping system that allows customers to browse products, add products to their cart, and checkout.
+The project uses C++ classes, data structures, and algorithms to implement a simple e-shopping system that allows customers to browse products, add products to their cart, and checkout.
 
 # INSTALLATION
  repository clone:
